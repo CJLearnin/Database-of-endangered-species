@@ -1,1 +1,2 @@
 
+Our database consists of endangered species that reside in the US, specifically,species listed under the Endangered Species Act enacted in 1973. The scope of our topic would remain within the US and it will focus on a number of vertebrate animals. Our group focused on the following categories: mammals, birds, reptiles, amphibians, and fishes. Of these categories, we chose 10 from each and implemented those within our database.
